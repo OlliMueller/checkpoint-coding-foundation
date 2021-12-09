@@ -2,10 +2,13 @@
 
 Solve the katas with the following requirements:
 
-- [ ] Fork this repository with your personal bootcamp github account
+- [ ] Clone this repository with your personal bootcamp github account
+- [ ] Delete the existing remote after cloning the repository to your computer
 - [ ] Create a new branch called `katas-solution`
 - [ ] Solve the katas on the `katas-solution` branch
-- [ ] Push the commits to your (forked) repository
+- [ ] Create a new repository on GitHub called `checkpoint-coding-foundation`
+  - [ ] Add this repository as the new origin remote to your local repository 
+- [ ] Push the commits to your GitHub repository
 - [ ] Create a new pull request when your are done that will merge your `katas-solution` branch into the `main` branch
 - [ ] Do not merge the branch yourself
 - [ ] Assign the `codingbootcampseu` GitHub user `read` permission to your repo
