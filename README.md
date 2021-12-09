@@ -1,6 +1,15 @@
 # Checkpoint Coding Foundation
 
-Solve the three katas that are included in this repository.
+Solve the katas with the following requirements:
+
+- [ ] Fork this repository with your personal bootcamp github account
+- [ ] Create a new branch called `katas-solution`
+- [ ] Solve the katas on the `katas-solution` branch
+- [ ] Push the commits to your (forked) repository
+- [ ] Create a new pull request when your are done that will merge your `katas-solution` branch into the `main` branch
+- [ ] Do not merge the branch yourself
+- [ ] Assign the `codingbootcampseu` GitHub user `read` permission to your repo
+- [ ] Assign the `codingbootcampseu` user as reviewer to your pull request
 
 All three katas have test files that will be automatically executed when loading the index.html in the browser (please use VS Code Live Server for that).
 
