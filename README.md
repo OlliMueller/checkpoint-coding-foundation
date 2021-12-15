@@ -2,7 +2,7 @@
 
 Solve the katas with the following requirements:
 
-- [ ] Clone this repository with your personal bootcamp github account
+- [ ] Clone this repository (on your computer)
 - [ ] Delete the existing remote after cloning the repository to your computer
 - [ ] Create a new branch called `katas-solution`
 - [ ] Solve the katas on the `katas-solution` branch
