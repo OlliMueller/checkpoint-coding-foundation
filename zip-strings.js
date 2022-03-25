@@ -4,7 +4,7 @@ function zipStrings(strA, strB) {
   numberArray = strB.split("");
   let zippedString = [];
 
-  //using Ternary Operators for if/else-statement
+  //using Ternary Operators as if/else-statement
   const arrayLength =
     letterArray.length >= numberArray.length
       ? letterArray.length
