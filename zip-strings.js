@@ -2,7 +2,7 @@ function zipStrings(strA, strB) {
   //split strA & strB, returns two arrays
   letterArray = strA.split("");
   numberArray = strB.split("");
-  zippedArray = [];
+  let zippedString = [];
 
   //using Ternary Operators for if/else-statement
   const arrayLength =
@@ -11,11 +11,11 @@ function zipStrings(strA, strB) {
       : numberArray.length;
 
   for (let i = 0; i < arrayLength; i++) {
-    zippedArray.push(letterArray[i]);
-    zippedArray.push(numberArray[i]);
+    zippedString.push(letterArray[i]);
+    zippedString.push(numberArray[i]);
   }
 
-  // merge items with array.join(), return it as a string
-  zippedString = zippedArray.join("");
-  return zippedString;
+  // using ".join" to turn array into one string
+  console.log(zippedString.join(""));
+  return zippedString.join("");
 }
